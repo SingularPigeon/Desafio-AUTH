@@ -11,6 +11,7 @@ Puedes ver el demo [aqui 🚀](https://desafio-auth-37f60.web.app/register)
 - Vue 3
 - Vue Router
 - Firebase Authentication
+- Firebase Hosting
 
 ---
 
