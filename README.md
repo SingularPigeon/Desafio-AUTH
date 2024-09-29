@@ -1,35 +1,18 @@
-# desafio-auth
+# Desafio-auth
 
-This template should help get you started developing with Vue 3 in Vite.
+Implementar una demo de aplicación web que utilice el servicio de autenticación con Firebase. El demo debe contar con 3 vistas: SignUp, Login y Home. La vista de Home es necesario que esté restringida, es decir, el usuario al ingresar a la aplicación, automáticamente será redirigido a la vista Sign up en caso de que no esté registrado.
 
-## Recommended IDE Setup
+![](/public/preview-desafio-auth.png)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Dependencias
 
-## Customize configuration
+- Vue 3
+- Vue Router
+- Firebase Authentication
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+---
 
-## Project Setup
+### Autores
 
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+- **Desarolladora**:[Paloma Rivera](https://github.com/SingularPigeon)
+- **Diseño**: [Bootcamp Desafío Latam](desafiolatam.com)

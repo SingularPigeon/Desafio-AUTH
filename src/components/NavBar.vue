@@ -36,7 +36,7 @@ function handleSignOut() {
             <RouterLink :to="{ name: 'login' }" class="nav-link">Iniciar sesión</RouterLink>
           </li>
           <li>
-            <button @click="handleSignOut" class="btn btn-sm btn-outline-secondary mt-2">
+            <button @click="handleSignOut" class="btn btn-sm btn-outline-secondary ms-2">
               Cerrar sesión
             </button>
           </li>
